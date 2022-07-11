@@ -6,9 +6,9 @@ Here are all the analysed online news articles and tweets:
 2. Nbcnews: https://www.nbcnews.com/news/world/live-blog/russia-ukraine-war-live-updates-kherson-peril-more-1m-flee-n1290720 
 3. CNBC: https://www.cnbc.com/2022/03/04/russias-invasion-of-ukraine-is-baffling-military-analysts.html 
 4. CNN: https://edition.cnn.com/europe/live-news/ukraine-russia-putin-news-03-04-22/h_b89a6a882189d860bb64f8e87e8610d5 
-5. The Guardian2: https://www.theguardian.com/world/2022/mar/05/boris-johnson-praises-astonishing-courage-of-uk-journalists-shot-by-russian-hit-squad 
-6. The New York Times2: https://www.nytimes.com/2022/03/04/technology/ukraine-russia-hackers.html 
-7. The Washington Post2: https://www.washingtonpost.com/national-security/2022/03/04/us-weapons-ukraine/ 
+5. The Guardian: https://www.theguardian.com/world/2022/mar/05/boris-johnson-praises-astonishing-courage-of-uk-journalists-shot-by-russian-hit-squad 
+6. The New York Times: https://www.nytimes.com/2022/03/04/technology/ukraine-russia-hackers.html 
+7. The Washington Post: https://www.washingtonpost.com/national-security/2022/03/04/us-weapons-ukraine/ 
 8. Nbcnews: https://www.nbcnews.com/news/world/live-blog/russia-ukraine-war-live-updates-nuclear-scare-power-plant-shelled-n1290843 
 9. The Sun: https://www.thesun.co.uk/news/17835662/ukraine-nuclear-power-plant-russia-war-chernobyl/ 
 10. CNBC: https://www.cnbc.com/2022/03/03/how-the-ukraine-russia-conflict-may-hit-your-wallet.html 
@@ -17,7 +17,7 @@ Here are all the analysed online news articles and tweets:
 13. Forbes: https://www.forbes.com/sites/sergeiklebnikov/2022/03/03/wheat-prices-surge-amid-russias-invasion-of-ukraine-heres-what-that-means-for-us-food-costs/ 
 14. The Guardian: https://www.theguardian.com/world/2022/mar/03/icc-launches-war-crimes-investigation-russia-invasion-ukraine 
 15. The New York Times: https://www.nytimes.com/2022/03/03/technology/google-ads-russia.html 
-16. The Verge: Telecoms     blackout hits northeast Ukraine; large power outages also reported - The     Verge 
+16. The Verge: https://www.theverge.com/2022/3/3/22960374/telecoms-blackout-northeast-ukraine-power-outage-sumy
 17. The Washington Post: https://www.washingtonpost.com/world/2022/03/03/russia-cat-ban-ukraine-war/ 
 18. Euronews: https://www.euronews.com/my-europe/2022/03/02/meps-were-asked-to-condemn-russia-s-invasion-of-ukraine-13-voted-no-here-s-why
 
