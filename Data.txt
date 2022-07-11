@@ -2,28 +2,28 @@ Here are all the analysed online news articles and tweets:
 
 - News articles:
 
-The Sun: https://www.thesun.co.uk/news/politics/17837544/britain-jail-putin-if-guilty-war-crimes-dominic-raab/ 
-Nbcnews: https://www.nbcnews.com/news/world/live-blog/russia-ukraine-war-live-updates-kherson-peril-more-1m-flee-n1290720 
-CNBC2: https://www.cnbc.com/2022/03/04/russias-invasion-of-ukraine-is-baffling-military-analysts.html 
-CNN2: https://edition.cnn.com/europe/live-news/ukraine-russia-putin-news-03-04-22/h_b89a6a882189d860bb64f8e87e8610d5 
-The Guardian2: https://www.theguardian.com/world/2022/mar/05/boris-johnson-praises-astonishing-courage-of-uk-journalists-shot-by-russian-hit-squad 
-The New York TImes2: https://www.nytimes.com/2022/03/04/technology/ukraine-russia-hackers.html 
-The Washington Post2: https://www.washingtonpost.com/national-security/2022/03/04/us-weapons-ukraine/ 
-Nbcnews2: https://www.nbcnews.com/news/world/live-blog/russia-ukraine-war-live-updates-nuclear-scare-power-plant-shelled-n1290843 
-The Sun2: https://www.thesun.co.uk/news/17835662/ukraine-nuclear-power-plant-russia-war-chernobyl/ 
-CNBC: https://www.cnbc.com/2022/03/03/how-the-ukraine-russia-conflict-may-hit-your-wallet.html 
-CNN Business: https://edition.cnn.com/2022/03/03/economy/russia-invasion-global-economy/index.html 
-CNN: https://edition.cnn.com/europe/live-news/ukraine-russia-putin-news-03-03-22/h_da814b54d491af71dda26912f6ad9062 
-Forbes: https://www.forbes.com/sites/sergeiklebnikov/2022/03/03/wheat-prices-surge-amid-russias-invasion-of-ukraine-heres-what-that-means-for-us-food-costs/ 
-The Guardian: https://www.theguardian.com/world/2022/mar/03/icc-launches-war-crimes-investigation-russia-invasion-ukraine 
-The New York Times: https://www.nytimes.com/2022/03/03/technology/google-ads-russia.html 
-The Verge: Telecoms     blackout hits northeast Ukraine; large power outages also reported - The     Verge 
-The Washington Post: https://www.washingtonpost.com/world/2022/03/03/russia-cat-ban-ukraine-war/ 
-Euronews: https://www.euronews.com/my-europe/2022/03/02/meps-were-asked-to-condemn-russia-s-invasion-of-ukraine-13-voted-no-here-s-why
+1. The Sun: https://www.thesun.co.uk/news/politics/17837544/britain-jail-putin-if-guilty-war-crimes-dominic-raab/ 
+2. Nbcnews: https://www.nbcnews.com/news/world/live-blog/russia-ukraine-war-live-updates-kherson-peril-more-1m-flee-n1290720 
+3. CNBC: https://www.cnbc.com/2022/03/04/russias-invasion-of-ukraine-is-baffling-military-analysts.html 
+4. CNN: https://edition.cnn.com/europe/live-news/ukraine-russia-putin-news-03-04-22/h_b89a6a882189d860bb64f8e87e8610d5 
+5. The Guardian2: https://www.theguardian.com/world/2022/mar/05/boris-johnson-praises-astonishing-courage-of-uk-journalists-shot-by-russian-hit-squad 
+6. The New York Times2: https://www.nytimes.com/2022/03/04/technology/ukraine-russia-hackers.html 
+7. The Washington Post2: https://www.washingtonpost.com/national-security/2022/03/04/us-weapons-ukraine/ 
+8. Nbcnews: https://www.nbcnews.com/news/world/live-blog/russia-ukraine-war-live-updates-nuclear-scare-power-plant-shelled-n1290843 
+9. The Sun: https://www.thesun.co.uk/news/17835662/ukraine-nuclear-power-plant-russia-war-chernobyl/ 
+10. CNBC: https://www.cnbc.com/2022/03/03/how-the-ukraine-russia-conflict-may-hit-your-wallet.html 
+11. CNN Business: https://edition.cnn.com/2022/03/03/economy/russia-invasion-global-economy/index.html 
+12. CNN: https://edition.cnn.com/europe/live-news/ukraine-russia-putin-news-03-03-22/h_da814b54d491af71dda26912f6ad9062 
+13. Forbes: https://www.forbes.com/sites/sergeiklebnikov/2022/03/03/wheat-prices-surge-amid-russias-invasion-of-ukraine-heres-what-that-means-for-us-food-costs/ 
+14. The Guardian: https://www.theguardian.com/world/2022/mar/03/icc-launches-war-crimes-investigation-russia-invasion-ukraine 
+15. The New York Times: https://www.nytimes.com/2022/03/03/technology/google-ads-russia.html 
+16. The Verge: Telecoms     blackout hits northeast Ukraine; large power outages also reported - The     Verge 
+17. The Washington Post: https://www.washingtonpost.com/world/2022/03/03/russia-cat-ban-ukraine-war/ 
+18. Euronews: https://www.euronews.com/my-europe/2022/03/02/meps-were-asked-to-condemn-russia-s-invasion-of-ukraine-13-voted-no-here-s-why
 
 - Tweets:
 
-1.  https://twitter.com/ZelenskyyUa/status/1499319625296887809
+1. https://twitter.com/ZelenskyyUa/status/1499319625296887809
 2. https://twitter.com/WhiteHouse/status/1499463186269057029
 3. https://twitter.com/WhiteHouse/status/1499463162080501764
 4. https://twitter.com/WhiteHouse/status/1499463191386116115
